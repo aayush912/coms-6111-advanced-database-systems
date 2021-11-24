@@ -1,3 +1,5 @@
 # Advanced Database Systems
 
-Implementation of Rocchio Algorithm.
+Project 1 - Implementation of Rocchio Algorithm. <br />
+Project 2 - Information Extraction using SpanBERT. <br />
+Project 3 - Implementation of Apriori Algorithm.
