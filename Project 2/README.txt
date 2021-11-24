@@ -69,5 +69,5 @@ E):
 
 F):
 
-Google Custom Search Engine JSON API Key   : AIzaSyDFLI4iu83nBdeuUJkQTDH739PIyUqKuVM
-Engine ID                                  : 3ad87265822f5240e
+Google Custom Search Engine JSON API Key   : ENTER YOUR OWN API KEY HERE
+Engine ID                                  : ENTER YOUR OWN ENGINE ID HERE
