@@ -13,7 +13,7 @@ spacy_help_functions.py
 spanbert.py
 w_bring_relations.py
 display.py
-log.txt : Transcript of our code for the given parameters
+transcript.txt : Transcript of our code for the given parameters
 
 
 C): 
