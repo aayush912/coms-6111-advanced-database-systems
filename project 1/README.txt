@@ -1,14 +1,15 @@
 A.
-Mehul Goel
-mg4260
+
 Aayush Kumar Verma
 av2955
 
+Mehul Goel
+mg4260
 
 B. 
 
 List of files in the tar.gz
-project1MehulAayush.py
+project1.py
 
 
 C. 
