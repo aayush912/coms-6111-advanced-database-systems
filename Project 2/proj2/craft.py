@@ -8,8 +8,8 @@ needed_relation=['per:schools_attended', 'per:employee_of', 'per:cities_of_resid
 
 # Take user input
 print()
-googlekey = str(input('Enter Google Search Key: ') or 'AIzaSyDFLI4iu83nBdeuUJkQTDH739PIyUqKuVM' )
-enginekey = str(input('Enter Engine Key: ') or '3ad87265822f5240e')
+googlekey = str(input('Enter Google Search Key: ') or '-----ENTER YOUR OWN API KEY HERE-----' )
+enginekey = str(input('Enter Engine Key: ') or '-----ENTER YOUR OWN ENGINE ID HERE------')
 r = int(input('Enter Relation Needed: ') or 2)
 thresh = float((input('Enter Threshold Needed: ') or 0.7))
 k = int(input('Enter Number of Tuples to Find: ') or 10)
