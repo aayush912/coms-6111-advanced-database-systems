@@ -13,6 +13,7 @@ project1.py
 
 
 C. 
+
 Commands necessary to install the required software and dependencies and then to run the program
 pip3 install --upgrade google-api-python-client
 pip3 install nltk
@@ -21,6 +22,7 @@ python3 project1MehulAayush.py
 
 
 D.
+
 Description:
 
 First a google search for the input query is done
@@ -41,6 +43,7 @@ Query is rerun for search results, feedback is taken and query expansion done un
 
 
 E.
+
 Query Expansion:
 
 For expansion of the query a list is created for each word listing the number of search items that the word was found in
@@ -57,5 +60,6 @@ These words are sorted in descending order of their weights and the top three wo
 
 
 F.
-Google Custom Search Engine JSON API Key:AIzaSyDFLI4iu83nBdeuUJkQTDH739PIyUqKuVM
-Engine ID:3ad87265822f5240e
+
+Google Custom Search Engine JSON API Key: <ENTER YOUR OWN API KEY>
+Engine ID: <ENTER YOUR OWN SEARCH ENGINE ID>
