@@ -187,7 +187,7 @@ def rocchioAlgorithm(documentList, res, query):
     return newQueryWeights
 
 def main():
-    JsonApiKey, EngineID, precision = "AIzaSyDFLI4iu83nBdeuUJkQTDH739PIyUqKuVM", "3ad87265822f5240e", 0.9
+    JsonApiKey, EngineID, precision = "-----ENTER YOUR API KEY HERE-----", "-----ENTER YOUR ENGINE ID HERE-----", 0.9
     print("ENTER THE SEARCH QUERY: ")
     query = input()
     print()
