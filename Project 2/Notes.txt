@@ -1,0 +1,1 @@
+Modify the input method as per the system requirements. Here, we have used printable user input. You may have to take system arguments, therefore use import sys in your code and take inputs with sys.argv[<index>].
